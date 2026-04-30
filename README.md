@@ -13,7 +13,7 @@ Repository
 - CSV: `Online_Retail.csv`
 - SQL script: `Online_Retail_Querry.sql`
 - Repo: https://github.com/Akwest49/Portfolio-Business-Analysis
-- Original dataset: https://www.kaggle.com/datasets/tunguz/online-retail?select=Online_Retail.csv
+- Original dataset: https://www.kaggle.com/datasets/tunguz/online-retail
 
 Cleaning Notes:
 - Pre-SQL Python cleaning performed on the CSV from Kaggle (not included).
