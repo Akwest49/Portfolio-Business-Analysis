@@ -1,5 +1,5 @@
 /*Introduction to Project
-Project: Online Retail — Small Store Sales Analysis
+Project: Online Retail â€” Small Store Sales Analysis
 Description: Clean and transform one year of sales data; 
 create tables for different types of data in the original table; 
 run business projections (annual sales, best time-of-day for sales, cancellation counts, etc...).
