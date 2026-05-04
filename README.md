@@ -14,7 +14,7 @@ Repository
 - SQL script: `Online_Retail_Querry.sql`
 - Repo: https://github.com/Akwest49/Portfolio-Business-Analysis
 - Original dataset: https://www.kaggle.com/datasets/tunguz/online-retail
-- Tableau Dashboard Image: `Online Sales Dashboard.png`
+- Tableau Dashboard Image: `Online_Sales_Dashboard.png`
 
 Cleaning Notes:
 - Pre-SQL Python cleaning performed on the CSV from Kaggle (not included).
