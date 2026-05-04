@@ -7,13 +7,14 @@
 Short project summary
 - Cleaned and transformed one year of online retail sales.
 - Produced cleaned table, error/cancellation tables, and business projections (monthly/annual sales, time-of-day, top products/customers, cancellations).
--Data visualizations can be found on this Tableau Dashboard: ________
+- Data Visualization created in Tableau
 
 Repository
 - CSV: `Online_Retail.csv`
 - SQL script: `Online_Retail_Querry.sql`
 - Repo: https://github.com/Akwest49/Portfolio-Business-Analysis
 - Original dataset: https://www.kaggle.com/datasets/tunguz/online-retail
+- Tableau Dashboard Image: `Online Sales Dashboard.png`
 
 Cleaning Notes:
 - Pre-SQL Python cleaning performed on the CSV from Kaggle (not included).
